@@ -19,6 +19,7 @@
 - 🌱 Experimenting with: `React.js` | `C++` (newbie alert!) | `MySQL` | `Node.js`
 - 🚀 Always learning, always building (sometimes breaking things, too).
 - 🤝 Open to new connections, collaborations, and fun tech adventures!
+- 🌐 My Portfolio: [Click Here](https://aaditya-singhal-portfolio.netlify.app/)
 
 ---
 
@@ -35,7 +36,7 @@
 
 ### 📚 Featured Projects
 
-- 🌟 [Job Board React](https://github.com/singhalaadi/job-board-react) — *A fresh adventure into React & job hunting!*
+- 🌟 [Jobify: Job Board MERN](https://github.com/singhalaadi/job-board-mern) — *A fresh adventure into React & job hunting!*
 - 🗓️ [Event Management Platform](https://github.com/singhalaadi/Event-Management-Platform) — *The star of my internship; event organizing made easy!*
 - 🔄 [Case Converter Extension](https://github.com/singhalaadi/case-converter-extension) — *Turning practice into browser power-ups!*
 - ♾️ [Infinite Scroll](https://github.com/singhalaadi/infinite-scroll) — *API wizardry meets endless content.*
