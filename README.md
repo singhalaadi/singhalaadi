@@ -36,10 +36,10 @@
 
 ### 📚 Featured Projects
 
-- 🌟 [Jobify: Job Board MERN](https://github.com/singhalaadi/job-board-mern) — *A fresh adventure into React & job hunting!*
-- 🗓️ [Event Management Platform](https://github.com/singhalaadi/Event-Management-Platform) — *The star of my internship; event organizing made easy!*
-- 🔄 [Case Converter Extension](https://github.com/singhalaadi/case-converter-extension) — *Turning practice into browser power-ups!*
-- ♾️ [Infinite Scroll](https://github.com/singhalaadi/infinite-scroll) — *API wizardry meets endless content.*
+- 📝 [Taskzy: Personal Task Management Application](https://github.com/singhalaadi/taskzy-capstone-project) — A comprehensive task management application built for the capstone project.
+- 💼 [Jobify: Personal Job Management System](https://github.com/singhalaadi/job-board-mern) — A MERN stack job board platform connecting recruiters with job seekers.
+- 🌐 [Aaditya Singhal Portfolio](https://github.com/singhalaadi/aaditya-singhal-portfolio) — Personal portfolio showcasing skills, projects, and achievements.
+- 🏦 [Finly Backend](https://github.com/singhalaadi/finly-backend) — Backend for a financial management application with user authentication and transaction tracking. (Currently Working on this)
 
 ---
 
