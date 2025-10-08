@@ -55,7 +55,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-aaditya--singhal26-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/aaditya-singhal26)
 &nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/-its__aadi__singhal-E4405F?logo=instagram&logoColor=fff&style=flat)](https://instagram.com/its_aadi_singhal)
+[![Instagram](https://img.shields.io/badge/-__aaditya__singhal-E4405F?logo=instagram&logoColor=fff&style=flat)](https://instagram.com/_aaditya_singhal)
 
 
 ---
