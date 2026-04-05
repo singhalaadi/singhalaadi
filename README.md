@@ -36,10 +36,10 @@
 
 ### 📚 Featured Projects
 
-- 📝 [Taskzy: Personal Task Management Application](https://github.com/singhalaadi/taskzy-capstone-project) — A comprehensive task management application built for the capstone project.
-- 💼 [Jobify: Personal Job Management System](https://github.com/singhalaadi/job-board-mern) — A MERN stack job board platform connecting recruiters with job seekers.
-- 🌐 [Aaditya Singhal Portfolio](https://github.com/singhalaadi/aaditya-singhal-portfolio) — Personal portfolio showcasing skills, projects, and achievements.
-- 🏦 [Finly Backend](https://github.com/singhalaadi/finly-backend) — Backend for a financial management application with user authentication and transaction tracking. (Currently Working on this)
+- 🏋️ [FitTrackr](https://github.com/singhalaadi/fitTrackr) — A mobile-first fitness tracking app with workout journaling, progression intelligence, and real-time analytics built with React 19, Firebase, and Tailwind CSS.
+- 🛒 [TechHub: Gadget Store](https://github.com/singhalaadi/techHub-gadget-store-mern) — A full-stack MERN ecommerce platform for gadgets with user auth, cart management, order tracking, and an admin dashboard.
+- 🎨 [Memefy AI](https://github.com/singhalaadi/memefy-ai) — An AI-powered meme generator with a rich template library, live editor, Google auth, and Gemini AI integration built with React 18 and Firebase.
+- 🎓 [EduBuddy Archon.DEV](https://github.com/singhalaadi/EduBuddy_Archon.DEV) — An AI-powered adaptive learning tutor for rural Indian students (Grades 1–5) with bilingual support, personalized learning plans, and gamification built with React, Node.js, and Google Gemini AI.
 
 ---
 
