@@ -39,7 +39,7 @@
 - 🏋️ [FitTrackr](https://github.com/singhalaadi/fitTrackr) — A mobile-first fitness tracking app with workout journaling, progression intelligence, and real-time analytics built with React 19, Firebase, and Tailwind CSS.
 - 🛒 [TechHub: Gadget Store](https://github.com/singhalaadi/techHub-gadget-store-mern) — A full-stack MERN ecommerce platform for gadgets with user auth, cart management, order tracking, and an admin dashboard.
 - 🎨 [Memefy AI](https://github.com/singhalaadi/memefy-ai) — An AI-powered meme generator with a rich template library, live editor, Google auth, and Gemini AI integration built with React 18 and Firebase.
-- 🏨 [Hotel Nirvana](https://github.com/singhalaadi/hotel-nirvana) — A responsive hotel website showcasing rooms, amenities, and booking information built with HTML and CSS.
+- 🎓 [EduBuddy Archon.DEV](https://github.com/singhalaadi/EduBuddy_Archon.DEV) — An AI-powered adaptive learning tutor for rural Indian students (Grades 1–5) with bilingual support, personalized learning plans, and gamification built with React, Node.js, and Google Gemini AI.
 
 ---
 
